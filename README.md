@@ -1,27 +1,27 @@
 # Voron Zero
 
+ 
+## Formbot V0.2r1 Kit
 
-##Formbot V0.2r1 Kit
+- Kirigami Bed Frame
+- BTT Pi V1.2
+- BTT SKR Pico
+- BTT V0 Display
+- Revo Voron Hotend 24v
+- Double Sided PEI Sheet
+- Crimped Wiring Looms
+- Moons Motors
+- Stainless Steel Rails
+- MIC6 Cast Aluminum Build Plate
+- Polycarbonate Panels
+- Gates Belts
+- Vivedino 60W Silicone Bed Heater
+- Stainless Steel Hardware
+- Umbilical Board + Harness
+- NOT Makerbeam XL Extrusion!!! LDO Style
+- Meanwell 150W PSU
 
-Kirigami Bed Frame
-BTT Pi V1.2
-BTT SKR Pico
-BTT V0 Display
-CHC V6 Hotend (Upgradeable to Dragon/HF)
-Double Sided PEI Sheet
-Crimped Wiring Looms
-Moons Motors
-Stainless Steel Rails
-MIC6 Cast Aluminum Build Plate
-Polycarbonate Panels
-Gates Belts
-Vivedino 60W Silicone Bed Heater
-Stainless Steel Hardware
-Umbilical Board + Harness
-NOT Makerbeam XL Extrusion!!! LDO Style
-Meanwell 150W PSU
-
-##Motor Models
+## Motor Models
 
 Helpful for the Autotune TMC Klipper Plugin
 
